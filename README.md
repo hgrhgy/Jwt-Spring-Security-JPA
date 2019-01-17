@@ -1,5 +1,10 @@
 ## Jwt-Spring-Security-JPA ##
 
+## PLAN
+1. https
+2. password encryption 
+3. social login
+
 <a href="https://sourcerer.io/isopropylcyanide"><img src="https://avatars0.githubusercontent.com/u/12872673?v=4" height="50px" width="50px" alt=""/></a>
 
 A demo project explaining the backend authentication using JWT (Json Web Token) authentication using Spring Security &amp; MySQL JPA.
